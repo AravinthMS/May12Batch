@@ -7,8 +7,15 @@ public class SampleGit {
 		int a =10;
 		System.out.println(a);
 		
+		long l =23456;
+		System.out.println(l);
+		
 		double d = 78899;
 		System.out.println(d);
+
+		
+		
+
 	}
 
 }
