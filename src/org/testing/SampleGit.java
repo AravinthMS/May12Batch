@@ -7,6 +7,9 @@ public class SampleGit {
 		int a =10;
 		System.out.println(a);
 		
+		long l =23456;
+		System.out.println(l);
+		
 	}
 
 }
