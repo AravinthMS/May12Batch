@@ -10,6 +10,12 @@ public class SampleGit {
 		long l =23456;
 		System.out.println(l);
 		
+		double d = 78899;
+		System.out.println(d);
+
+		
+		
+
 	}
 
 }
